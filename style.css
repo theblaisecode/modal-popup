@@ -83,3 +83,10 @@ p {
   backdrop-filter: blur(3px);
   z-index: 5;
 }
+
+@media screen and (max-width: 480px) {
+  .flex {
+    display: flex;
+    flex-direction: column;
+  }
+}
