@@ -1,6 +1,6 @@
 # Modal PopUp
 
-A simple HTML, CSS, and JavaScript modal popup
+A simple HTML, CSS, and JavaScript modal popup.
 
 Live Project - [https://theblaisecode.github.io/modal-popup/](https://theblaisecode.github.io/modal-popup/)
 
